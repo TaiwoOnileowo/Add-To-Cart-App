@@ -21,7 +21,7 @@ A simple web application for managing a shopping list with Firebase Realtime Dat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shopping-list-app.git
+   git clone https://github.com/TaiwoOnileowo/Add-To-Cart-app.git
 
 2. Open the project folder:
     cd shopping-list-app
